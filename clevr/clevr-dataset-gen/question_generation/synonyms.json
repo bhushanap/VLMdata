@@ -1,0 +1,59 @@
+{
+  "thing": [
+    "block",
+    "cube"
+  ],
+  "sphere": [
+    "sphere",
+    "ball"
+  ],
+  "cube": [
+    "cube",
+    "block"
+  ],
+  "large": [
+    ""
+  ],
+  "small": [
+    ""
+  ],
+  "metal": [
+    ""
+  ],
+  "rubber": [
+    ""
+  ],
+  "left": [
+    "left of",
+    "to the left of",
+    "on the left side of"
+  ],
+  "right": [
+    "right of",
+    "to the right of",
+    "on the right side of"
+  ],
+  "behind": [
+    "behind"
+  ],
+  "front": [
+    "in front of"
+  ],
+  "above": [
+    "above,",
+    "on top of"
+  ],
+  "below": [
+    "below",
+    "underneath"
+  ],
+  "nearest": [
+    "closest to",
+    "nearest to",
+    "most close to"
+  ],
+  "farthest": [
+    "farthest to",
+    "most away from"
+  ]
+}

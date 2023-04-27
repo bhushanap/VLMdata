@@ -1,0 +1,14 @@
+compare_integer
+Are there an greater/less/equal number of x and y? [and combination with a relation]
+
+comparison
+Is color/size/material/shape of obj1 same as c/s/m/s of obj2? [and combination with a relation]
+
+zero_hop
+What is x of yz?
+
+one_hop
+what is the number/color/size/material/shape [and combination with relation]
+
+same_relate
+what is w of xy that has same z as xy?
